@@ -1,0 +1,4 @@
+In the repo you find the following files:
+
+- serial_com.py and wifi_com.py are the files where the webscraping happens and the different way of communication
+- Serial_arduino and Wifi_arduino are the files with the code for the arduino which is connected to the led strip also in the different way of communication
